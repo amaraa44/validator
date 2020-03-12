@@ -1,6 +1,4 @@
-package org.example;
-
-import org.example.rule.Rule;
+package hu.davidhalma.validator;
 
 import java.util.ArrayList;
 import java.util.Arrays;

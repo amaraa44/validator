@@ -1,8 +1,8 @@
-package org.example;
+package hu.davidhalma.validator;
 
-import org.example.rule.GreaterThanZeroRule;
-import org.example.rule.NotEmptyStringRule;
-import org.example.rule.ObjectNotNullRule;
+import hu.davidhalma.validator.rules.GreaterThanZeroRule;
+import hu.davidhalma.validator.rules.NotEmptyStringRule;
+import hu.davidhalma.validator.rules.ObjectNotNullRule;
 import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
